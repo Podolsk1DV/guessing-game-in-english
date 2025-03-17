@@ -1,7 +1,7 @@
 ### RocketSeat Explorer 🚀
 
-Essa aplicação foi densenvolvida com base nos ensinamentos da RocektSeat no Explorer
+This application was developed based on the teachings of RocektSeat in Explorer
 
-## Desenvolvido por 👇
+## Developed by 👇
 
 - [@Pdolsk1DV](https://www.github.com/octokatherine)
